@@ -1,0 +1,210 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title></title>
+	<meta name="generator" content="LibreOffice 6.0.7.3 (Linux)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="2020-08-10T18:24:59.009450850"/>
+</head>
+<body lang="en-US" dir="ltr">
+<p style="margin-bottom: 0in">&lt;?xml version=&quot;1.0&quot;?&gt;</p>
+<p style="margin-bottom: 0in">&lt;catalog&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk101&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;Gambardella,
+Matthew&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;XML Developer's
+Guide&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Computer&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;44.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2000-10-01&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;An in-depth
+look at creating applications 
+</p>
+<p style="margin-bottom: 0in">      with XML.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk102&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;Ralls, Kim&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;Midnight
+Rain&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Fantasy&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;5.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2000-12-16&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;A former
+architect battles corporate zombies, 
+</p>
+<p style="margin-bottom: 0in">      an evil sorceress, and her own
+childhood to become queen 
+</p>
+<p style="margin-bottom: 0in">      of the world.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk103&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;Corets,
+Eva&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;Maeve
+Ascendant&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Fantasy&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;5.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2000-11-17&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;After the
+collapse of a nanotechnology 
+</p>
+<p style="margin-bottom: 0in">      society in England, the young
+survivors lay the 
+</p>
+<p style="margin-bottom: 0in">      foundation for a new
+society.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk104&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;Corets,
+Eva&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;Oberon's
+Legacy&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Fantasy&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;5.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2001-03-10&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;In
+post-apocalypse England, the mysterious 
+</p>
+<p style="margin-bottom: 0in">      agent known only as Oberon helps
+to create a new life 
+</p>
+<p style="margin-bottom: 0in">      for the inhabitants of London.
+Sequel to Maeve 
+</p>
+<p style="margin-bottom: 0in">      Ascendant.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk105&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;Corets,
+Eva&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;The Sundered
+Grail&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Fantasy&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;5.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2001-09-10&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;The two
+daughters of Maeve, half-sisters, 
+</p>
+<p style="margin-bottom: 0in">      battle one another for control of
+England. Sequel to 
+</p>
+<p style="margin-bottom: 0in">      Oberon's Legacy.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk106&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;Randall,
+Cynthia&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;Lover Birds&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Romance&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;4.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2000-09-02&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;When Carla
+meets Paul at an ornithology 
+</p>
+<p style="margin-bottom: 0in">      conference, tempers fly as
+feathers get ruffled.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk107&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;Thurman,
+Paula&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;Splish
+Splash&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Romance&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;4.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2000-11-02&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;A deep sea
+diver finds true love twenty 
+</p>
+<p style="margin-bottom: 0in">      thousand leagues beneath the
+sea.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk108&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;Knorr,
+Stefan&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;Creepy
+Crawlies&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Horror&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;4.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2000-12-06&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;An anthology
+of horror stories about roaches,</p>
+<p style="margin-bottom: 0in">      centipedes, scorpions  and other
+insects.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk109&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;Kress,
+Peter&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;Paradox Lost&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Science
+Fiction&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;6.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2000-11-02&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;After an
+inadvertant trip through a Heisenberg</p>
+<p style="margin-bottom: 0in">      Uncertainty Device, James Salway
+discovers the problems 
+</p>
+<p style="margin-bottom: 0in">      of being quantum.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk110&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;O'Brien,
+Tim&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;Microsoft .NET: The
+Programming Bible&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Computer&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;36.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2000-12-09&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;Microsoft's
+.NET initiative is explored in 
+</p>
+<p style="margin-bottom: 0in">      detail in this deep programmer's
+reference.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk111&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;O'Brien,
+Tim&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;MSXML3: A
+Comprehensive Guide&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Computer&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;36.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2000-12-01&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;The Microsoft
+MSXML3 parser is covered in 
+</p>
+<p style="margin-bottom: 0in">      detail, with attention to XML DOM
+interfaces, XSLT processing, 
+</p>
+<p style="margin-bottom: 0in">      SAX and more.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">   &lt;book id=&quot;bk112&quot;&gt;</p>
+<p style="margin-bottom: 0in">      &lt;author&gt;Galos,
+Mike&lt;/author&gt;</p>
+<p style="margin-bottom: 0in">      &lt;title&gt;Visual Studio 7: A
+Comprehensive Guide&lt;/title&gt;</p>
+<p style="margin-bottom: 0in">      &lt;genre&gt;Computer&lt;/genre&gt;</p>
+<p style="margin-bottom: 0in">      &lt;price&gt;49.95&lt;/price&gt;</p>
+<p style="margin-bottom: 0in">     
+&lt;publish_date&gt;2001-04-16&lt;/publish_date&gt;</p>
+<p style="margin-bottom: 0in">      &lt;description&gt;Microsoft
+Visual Studio 7 is explored in depth,</p>
+<p style="margin-bottom: 0in">      looking at how Visual Basic,
+Visual C++, C#, and ASP+ are 
+</p>
+<p style="margin-bottom: 0in">      integrated into a comprehensive
+development 
+</p>
+<p style="margin-bottom: 0in">      environment.&lt;/description&gt;</p>
+<p style="margin-bottom: 0in">   &lt;/book&gt;</p>
+<p style="margin-bottom: 0in">&lt;/catalog&gt;</p>
+</body>
+</html>
